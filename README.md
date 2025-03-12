@@ -18,7 +18,8 @@ Returns & Refunds Analysis: Understanding customer complaints.
 
 
 Dashboard Image
-![Ecommerce Sales Analysis Dashboard](Ecommerce%20Sales%20Analysis%20dashboard.jpg)
+![Ecommerce Sales Dashboard](Ecommerce%20Sales%20Analysis%20Dashboard.jpg)
+
 
 
 🗂 Files Included
